@@ -37,6 +37,9 @@ Also please check out our other [plugins](https://draftpress.com/products/?utm_s
 = 1.3.9 = 2022-08-05
 * Compatible with WordPress 6.0.1
 
+= 1.3.9 = 2022-15-07
+* Compatible with WordPress 6.0.1
+
 = 1.3.8 = 2021-09-11
 * Compatible with WordPress 5.8.1
 

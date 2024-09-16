@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Plugin Name:    Comment Moderator
  * Plugin URI:    https://draftpress.com/products/comment-moderator
